@@ -309,4 +309,4 @@ df3.to_excel("Hetero_chain3.xlsx")
 df4.to_excel("Hetero_chain4.xlsx")
 df5.to_excel("Hetero_chain5.xlsx")
 
-##Note: Generally we should get two chains. There are rare events we should get more than two seperated chains.
+##Note: Generally we should get two chains. There are rare events we will get more than two seperated chains.
